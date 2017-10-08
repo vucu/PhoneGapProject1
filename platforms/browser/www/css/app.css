@@ -62,7 +62,7 @@ background:#fed136;
 }
 
 .button.blue-btn{
-background:#3B5998;
+background:#2c9f2c;
 }
 
 .button.grey-btn{
@@ -84,7 +84,7 @@ padding-bottom:25px;
 }
 
 .tab-bar{
-/*background:#00B279;*/
+/*background:#00B279; now green */
 background:#009688;
 }
 .clear{
@@ -92,7 +92,7 @@ clear:both;
 }
 .search-btn{
 position:absolute;
-top:7px;;
+top:7px;
 right:15px;
 }
 
@@ -943,7 +943,7 @@ background:#2c9f2c;
 }
 .status.pending
 {
-background:#000000;
+background:#fed136;
 }
 .status.accepted,
 .status.acknowledged

@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-googlemaps": {
+        "source": {
+            "type": "local",
+            "path": "/Users/vucu/Workspace/PhoneGapProject1/node_modules/cordova-plugin-googlemaps"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
